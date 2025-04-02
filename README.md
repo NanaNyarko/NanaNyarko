@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NanaNyarko
-- 👀 I’m interested in anything Data
-- 🌱 I’m currently learning IBM DATA SCIENCE on coursera
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 You can reach me via email nnyarkoappiahkubi@gmail.com
+👋 Hi, I’m @NanaNyarko
+👀 I’m passionate about all things data
+📊 I specialize in data SQL, Python, and Power BI
+🌱 I’m currently advancing my data engineering skills
+💡 I’m open to collaborating on data projects and real-world problem-solving
+📫 You can reach me via email @nnyarkoappiahkubi@gmail.com
   
 
 <!---
